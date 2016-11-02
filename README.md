@@ -1,3 +1,7 @@
+## Note
+Looks like the following PL implements changes better then this package provides. The latest versions of 5.3 (not sure the exact version this is implemented on) will cover what this package tries to help with.
+https://github.com/laravel/framework/pull/16212
+
 ## Queue Validator for Laravel 5.3
 
 Having issues with queue's in laravel 5.3? This package is made to help mitigate any damage from lost jobs.
